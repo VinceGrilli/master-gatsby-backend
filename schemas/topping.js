@@ -1,4 +1,4 @@
-import { FaPepperHot as icon, FaSeedling as leaf } from 'react-icons/fa';
+import { FaPepperHot as icon } from 'react-icons/fa';
 
 export default {
   // computer name
